@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Stream Chat Overlay
+Comment=Wayland click-through chat overlay for Kick, Twitch, YouTube, and custom chat URLs
+Exec=stream-chat-overlay
+Icon=com.koolpixel.StreamChatOverlay
+Terminal=false
+Categories=AudioVideo;Network;
+StartupNotify=true
