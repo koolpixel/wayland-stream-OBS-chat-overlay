@@ -70,6 +70,9 @@ stream-chat-overlay
 6. Click **Start CLICK-THROUGH Overlay**.
 7. Start your game and read chat while mouse input passes through to the game.
 
+## Screenshot
+![Stream Chat Overlay screenshot](screenshots/Screenshot_main.png)
+
 ## Uninstall
 
 ```fish
