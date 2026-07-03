@@ -32,6 +32,15 @@ git clone https://github.com/koolpixel/wayland-stream-chat-overlay.git
 cd wayland-stream-chat-overlay
 fish install.fish
 ```
+Or
+
+```
+Download the latest release from the GitHub **Releases** page, extract it, then run:
+
+```fish
+cd wayland-stream-chat-overlay
+fish install.fish
+```
 
 The installer installs these Arch/CachyOS packages if needed:
 
