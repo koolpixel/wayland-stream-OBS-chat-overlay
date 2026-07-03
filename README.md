@@ -28,7 +28,7 @@ Other wlroots/KDE/GNOME Wayland setups may work, but are not the main target yet
 ## Install
 
 ```fish
-git clone https://github.com/YOURNAME/wayland-stream-chat-overlay.git
+git clone https://github.com/koolpixel/wayland-stream-chat-overlay.git
 cd wayland-stream-chat-overlay
 fish install.fish
 ```
